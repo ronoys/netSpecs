@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ronoys/netSpecs">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/icon.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">NetSpecs</h3>
@@ -50,22 +50,17 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `ronoys`, `netSpecs`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Chrome Extension to outline Specs for Network Connection and Device
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![JavaScript][JavaScript1]]
+* [![HTML][HTML1]]
+* [![CSS][CSS1]]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,4 +204,8 @@ Project Link: [https://github.com/ronoys/netSpecs](https://github.com/ronoys/net
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
+[HTML1]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[CSS1]:  https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+[JavaScript1]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+
