@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Screen Shot][product-screenshot]
 
 Chrome Extension to outline Specs for Network Connection and Device
 
@@ -57,9 +57,9 @@ Chrome Extension to outline Specs for Network Connection and Device
 
 ### Built With
 
-* ![JavaScript][JavaScript1]
-* ![HTML][HTML1]
-* ![CSS][CSS1]
+![JavaScript][JavaScript1]
+![HTML][HTML1]
+![CSS][CSS1]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -69,10 +69,10 @@ Chrome Extension to outline Specs for Network Connection and Device
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This extension can be accessed in two ways. It can be installed via the Chrome Web Store
+or downloaded and loaded locally as an unpacked extension.
 
-### Prerequisites
+### Installation
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -80,7 +80,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### Downloading
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -188,7 +188,7 @@ Project Link: [https://github.com/ronoys/netSpecs](https://github.com/ronoys/net
 [license-url]: https://github.com/ronoys/netSpecs/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/main.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB

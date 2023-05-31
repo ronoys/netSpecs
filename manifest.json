@@ -5,6 +5,6 @@
   "description": "Displays bandwidth, latency, and network connection.",
   "browser_action": {
     "default_title": "NetStats",
-    "default_popup": "popup.html"
+    "default_popup": "src/popup.html"
   }
 }
