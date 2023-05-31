@@ -1,9 +1,6 @@
 var b = document.getElementById('mn');
 var a = document.getElementById('v2');
 
-
-
-
 function getBatteryLevel() {
   return new Promise(function(resolve, reject) {
       if ('getBattery' in navigator) {
