@@ -48,6 +48,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+
+### Built With
+
+![JavaScript][JavaScript1]
+![HTML][HTML1]
+![CSS][CSS1]
+
+
 ![Screen Shot][product-screenshot]
 
 Chrome Extension to outline Specs for Network Connection and Device
@@ -55,11 +63,7 @@ Chrome Extension to outline Specs for Network Connection and Device
 
 
 
-### Built With
 
-![JavaScript][JavaScript1]
-![HTML][HTML1]
-![CSS][CSS1]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
