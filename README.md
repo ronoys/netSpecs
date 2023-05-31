@@ -31,16 +31,12 @@
     <img src="images/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">NetSpecs</h3>
+<h3 align="center">netSpecs</h3>
 
   
 </div>
 
-### Built With
 
-![JavaScript][JavaScript1]
-![HTML][HTML1]
-![CSS][CSS1]
 
 
 
@@ -51,19 +47,15 @@
 ## About The Project
 
 
+<img src="images/main.png" alt="Screenshot" width="200" height="200">
 
 
-![Screen Shot][product-screenshot]
 
 Chrome Extension to outline Specs for Network Connection and Device
 
 
 
 
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
