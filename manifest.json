@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "NetSpecs",
+  "version": "1.0",
+  "description": "Displays bandwidth, latency, and network connection.",
+  "browser_action": {
+    "default_title": "Network Stats",
+    "default_popup": "popup.html"
+  }
+}

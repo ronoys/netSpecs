@@ -1,0 +1,41 @@
+Battery level:
+
+        function getBatteryLevel() {
+        return new Promise(function(resolve, reject) {
+            if ('getBattery' in navigator) {
+            navigator.getBattery()
+                .then(function(battery) {
+                var level = Math.floor(battery.level * 100);
+                resolve(level);
+                })
+                .catch(function(error) {
+                reject('Error occurred while retrieving battery level.');
+                });
+            } else {
+            reject('Battery API not supported.');
+            }
+        });
+        }
+
+
+        getBatteryLevel().then(function(level) { 
+            bandwidthDiv.textContent = 'Bandwidth: ' + level + ' Mbps';
+        })
+        .catch(function(error) { 
+            bandwidthDiv.textContent = 'slid';
+        });
+
+Connection:
+
+    - Latency: connection.rtt
+    - Network Strength (Maximum download bandwith): connection.downlink
+    - Network Effective Bandwith: connection.effectiveType
+    - Data-saving Mode: connection.saveData
+    - Service Workers Supported: serviceWorker in navigator
+    - Online: navigator.onLine
+    - Cookie enabled: navigator.cookieEnabled
+    - Device memory in Gigabytes: navigator.deviceMemory
+    - Number of logical processor cores: navigator.hardwareConcurrency
+    - User Agent: navigator.userAgent
+        - in JSON: JSON.stringify(window.navigator.userAgentData.toJSON());
+
