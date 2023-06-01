@@ -36,12 +36,23 @@
   
 </div>
 
-
+[HTML][HTML1]
+[CSS][CSS1]
+[JavaScript][JavaScript1]
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Chrome Extension to outline Specs for Network Connection and Device
+netSpecs is a Google Chrome extension built on **Manifest V3**. It provides the user with information about both their device and network connection.
+Commonly, when attempting to troubleshoot issues or seeking technological support, it is necessary for a user to know specifications relating directly
+to their device. However, there is no universal method to determine many of these details as the way to check them varies on several factors including
+the type of network connection and the operating system used. netSpecs conglomerates all these into a simple, easy-to-use platform that works natively
+in the browser, regardless of the device or OS.
+
+This extension relies on the **Network Information API** and specifically the navigator interface. The UI was built using HTML and CSS, while the API
+calls and event handling is done using JavaScript. Below are some of the values retrieved from the API
+
+
 
 
 
@@ -58,7 +69,7 @@ This extension can be loaded locally in Chrome as an unpacked extension.
 
 1. In this reponsitory, select the Green `<> Code` Button and Select `Download ZIP` from the drop-down.
 2. Select the desired enclosing folder in the file explorer and save the ZIP file locally.
-3. Extract the project files from the ZIP file
+3. Extract the project files from the ZIP file.
 
 
 ### Importing into Chrome
