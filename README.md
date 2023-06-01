@@ -112,6 +112,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## About
 
 Author: Ronoy Sarkar
+
 Project Link: [https://github.com/ronoys/netSpecs](https://github.com/ronoys/netSpecs)
 
 
@@ -122,14 +123,12 @@ Project Link: [https://github.com/ronoys/netSpecs](https://github.com/ronoys/net
 
 * <a href="https://www.flaticon.com/free-icons/data-research" title="data research icons">Data research icons created by Freepik - Flaticon</a>
 * [README Template](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
-* []()
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [HTML1]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [CSS1]:  https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 [JavaScript1]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
