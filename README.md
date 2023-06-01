@@ -61,8 +61,6 @@ This extension can be loaded locally in Chrome as an unpacked extension.
 3. Extract the project files from the ZIP file
 
 
-  ```
-
 ### Importing into Chrome
 
 1. Navigate to the Chrome extensions page
