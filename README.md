@@ -46,18 +46,15 @@
 netSpecs is a Google Chrome extension built on **Manifest V3**. It provides the user with information about both their device and network connection.
 Commonly, when attempting to troubleshoot issues or seeking technological support, it is necessary for a user to know specifications relating directly
 to their device. However, there is no universal method to determine many of these details as the way to check them varies on several factors including
-the type of network connection and the operating system used. netSpecs conglomerates all these into a simple, easy-to-use platform that works natively
-in the browser, regardless of the device or OS.
+the type of network connection and the operating system used. netSpecs conglomerates all these into a simple, easy-to-use platform that works **natively**
+in the browser, **regardless of the device or OS**.
 
 This extension relies on the **Network Information API** and specifically the navigator interface. The UI was built using HTML and CSS, while the API
 calls and event handling is done using JavaScript. Below are some of the values retrieved from the API
 
-
-
-
-
-
-
+> `Name1:` Definition 1
+> `Name2:` Definition 2
+> `Name3:` Definition 3
 
 
 <!-- GETTING STARTED -->
@@ -67,7 +64,7 @@ This extension can be loaded locally in Chrome as an unpacked extension.
 
 ### Downloading the Extension~
 
-1. In this reponsitory, select the Green `<> Code` Button and Select `Download ZIP` from the drop-down.
+1. In this reponsitory, select the Green **`<> Code`** Button and Select **`Download ZIP`** from the drop-down.
 2. Select the desired enclosing folder in the file explorer and save the ZIP file locally.
 3. Extract the project files from the ZIP file.
 
@@ -78,10 +75,9 @@ This extension can be loaded locally in Chrome as an unpacked extension.
    ```
    chrome://extensions/
    ```
-2. Select  `Load Unpacked` in the top left.
-   
+2. Select **`Load Unpacked`** in the top left.
 3. Select the extracted project files from the file explorer
-4. NetSpecs should now appear under the `Extensions` icon next to the search bar. Select NetSpecs to open the home view.
+4. NetSpecs should now appear under the **`Extensions`** icon next to the search bar. Select NetSpecs to open the home view.
 
 
 
