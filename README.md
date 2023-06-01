@@ -60,18 +60,18 @@ calls and event handling is done using JavaScript. Below are some of the values 
 * `Online:` Whether the device is connected to the internet
 * `Cookies:` Whether cookies are enabled in the browser
 
-**Network:**
+**Device:**
 * `Device Memory:` The approximate memory of the device (in Gb)
 * `Battery Level:` The battery percentage of the device
 * `Processor Cores:` The number of unique processor cores
-* `User Agent:` JSON-Formatted information about the device and network, including the Operating System
+* `User Agent:` JSON-formatted information about the device and network, including the Operating System
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This extension can be loaded locally in Chrome as an unpacked extension.
+This extension can be loaded locally in Chrome as an unpacked extension. It uses Manifest v3 and requires version 88 or later of Chrome.
 
 ### Downloading the Extension
 
@@ -89,31 +89,6 @@ This extension can be loaded locally in Chrome as an unpacked extension.
 2. Select **`Load Unpacked`** in the top left.
 3. Select the extracted project files from the file explorer
 4. NetSpecs should now appear under the **`Extensions`** icon next to the search bar. Select NetSpecs to open the home view.
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/ronoys/netSpecs/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -145,18 +120,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## About
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
+Author: Ronoy Sarkar
 Project Link: [https://github.com/ronoys/netSpecs](https://github.com/ronoys/netSpecs)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+
+<a href="https://www.flaticon.com/free-icons/data-research" title="data research icons">Data research icons created by Freepik - Flaticon</a>
 
 * []()
 * []()
