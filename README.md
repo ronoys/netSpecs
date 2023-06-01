@@ -52,9 +52,9 @@ in the browser, **regardless of the device or OS**.
 This extension relies on the **Network Information API** and specifically the navigator interface. The UI was built using HTML and CSS, while the API
 calls and event handling is done using JavaScript. Below are some of the values retrieved from the API
 
-> `Name1:` Definition 1
-> `Name2:` Definition 2
-> `Name3:` Definition 3
+* `Name1:` Definition 1
+* `Name2:` Definition 2
+* `Name3:` Definition 3
 
 
 <!-- GETTING STARTED -->
