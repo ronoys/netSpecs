@@ -129,9 +129,9 @@ Project Link: [https://github.com/ronoys/netSpecs](https://github.com/ronoys/net
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-<a href="https://www.flaticon.com/free-icons/data-research" title="data research icons">Data research icons created by Freepik - Flaticon</a>
 
-* []()
+
+* <a href="https://www.flaticon.com/free-icons/data-research" title="data research icons">Data research icons created by Freepik - Flaticon</a>
 * []()
 * []()
 
