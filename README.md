@@ -36,9 +36,9 @@
   
 </div>
 
-[HTML][HTML1]
-[CSS][CSS1]
-[JavaScript][JavaScript1]
+![HTML][HTML1]
+![CSS][CSS1]
+![JavaScript][JavaScript1]
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
