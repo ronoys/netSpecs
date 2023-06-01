@@ -38,18 +38,8 @@
 
 
 
-
-
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-
-<img src="images/main.png" alt="Screenshot" width="200" height="200">
-
-
 
 Chrome Extension to outline Specs for Network Connection and Device
 
@@ -62,34 +52,27 @@ Chrome Extension to outline Specs for Network Connection and Device
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This extension can be accessed in two ways. It can be installed via the Chrome Web Store
-or downloaded and loaded locally as an unpacked extension.
+This extension can be loaded locally in Chrome as an unpacked extension.
 
-### Installation
+### Downloading the Extension~
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
+1. In this reponsitory, select the Green `<> Code` Button and Select `Download ZIP` from the drop-down.
+2. Select the desired enclosing folder in the file explorer and save the ZIP file locally.
+3. Extract the project files from the ZIP file
+
+
   ```
 
-### Downloading
+### Importing into Chrome
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/ronoys/netSpecs.git
+1. Navigate to the Chrome extensions page
    ```
-3. Install NPM packages
-   ```sh
-   npm install
+   chrome://extensions/
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+2. Select  `Load Unpacked` in the top left.
+   
+3. Select the extracted project files from the file explorer
+4. NetSpecs should now appear under the `Extensions` icon next to the search bar. Select NetSpecs to open the home view.
 
 
 
