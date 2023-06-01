@@ -29,7 +29,7 @@ function general() {
   strDiv.textContent = 'Network Strength: ' + navigator.connection.downlink + ' Mbps';
 
   var effDiv = document.getElementById("eff");
-  effDiv.textContent = 'Network Effective Bandwith: ' + navigator.connection.effectiveType;
+  effDiv.textContent = 'Effective Connection Type: ' + navigator.connection.effectiveType;
 
   var serDiv = document.getElementById("ser");
   serDiv.textContent = 'Service Workers: ' + (typeof navigator.serviceWorker !== 'undefined').toString();

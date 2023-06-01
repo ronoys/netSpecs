@@ -50,11 +50,16 @@ the type of network connection and the operating system used. netSpecs conglomer
 in the browser, **regardless of the device or OS**.
 
 This extension relies on the **Network Information API** and specifically the navigator interface. The UI was built using HTML and CSS, while the API
-calls and event handling is done using JavaScript. Below are some of the values retrieved from the API
+calls and event handling is done using JavaScript. Below are some of the values retrieved from the API:
 
-* `Name1:` Definition 1
-* `Name2:` Definition 2
-* `Name3:` Definition 3
+Network:
+* `Latency:` The roundtrip time (in ms) taken by the network between a request and its corresponding response
+* `Network Strength:` The network's effective bandwith (in Mbps)
+* `Effective Connection Type:` The determination of the network's connection type based on network strength and latency
+* `Service Workers:` Whether or not the service workers are enabled
+* `Online:` Whether the device is connected to the internet
+* `Cookies:` Whether cookies are enabled in the browser
+
 
 
 <!-- GETTING STARTED -->
