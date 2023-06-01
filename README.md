@@ -95,7 +95,7 @@ This extension can be loaded locally in Chrome as an unpacked extension. It uses
 <!-- CONTRIBUTING -->
 ## Project Views
 
-<img src="images/main.png" alt="main">
+<img src="images/main.png" alt="main"  width="200" height="auto">
 <img src="images/net.png" alt="net">
 <img src="images/dev.png" alt="dev>
 
