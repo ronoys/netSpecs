@@ -52,13 +52,19 @@ in the browser, **regardless of the device or OS**.
 This extension relies on the **Network Information API** and specifically the navigator interface. The UI was built using HTML and CSS, while the API
 calls and event handling is done using JavaScript. Below are some of the values retrieved from the API:
 
-Network:
+**Network:**
 * `Latency:` The roundtrip time (in ms) taken by the network between a request and its corresponding response
 * `Network Strength:` The network's effective bandwith (in Mbps)
 * `Effective Connection Type:` The determination of the network's connection type based on network strength and latency
 * `Service Workers:` Whether or not the service workers are enabled
 * `Online:` Whether the device is connected to the internet
 * `Cookies:` Whether cookies are enabled in the browser
+
+**Network:**
+* `Device Memory:` The approximate memory of the device (in Gb)
+* `Battery Level:` The battery percentage of the device
+* `Processor Cores:` The number of unique processor cores
+* `User Agent:` JSON-Formatted information about the device and network, including the Operating System
 
 
 
@@ -67,7 +73,7 @@ Network:
 
 This extension can be loaded locally in Chrome as an unpacked extension.
 
-### Downloading the Extension~
+### Downloading the Extension
 
 1. In this reponsitory, select the Green **`<> Code`** Button and Select **`Download ZIP`** from the drop-down.
 2. Select the desired enclosing folder in the file explorer and save the ZIP file locally.
